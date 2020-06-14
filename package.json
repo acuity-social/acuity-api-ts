@@ -5,5 +5,8 @@
   "main": "src/lib.ts",
   "repository": "git@github.com:acuity-social/acuity-api-ts.git",
   "author": "Jonathan Brown <jbrown@mix-blockchain.org>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@polkadot/api": "^1.18.1"
+  }
 }
